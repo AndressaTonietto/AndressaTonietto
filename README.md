@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Andressa Tonietto</h1>
-<h3>A passionate frontend developer. Programming for 2 years. React, Javascript, styled-components, Git flow. Slowly digging into Typescript and unit testing. Really excited about learning new things</h3>
+<h3>A passionate frontend developer. Programming for 2 years. React, Javascript, styled-components, Git flow. Slowly digging into Vue.Js and Vuex. Really excited about learning new things</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
