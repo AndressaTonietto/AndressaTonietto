@@ -1,5 +1,5 @@
 ### Hey, I'm Andressa! 👋
-<h3>A passionate frontend developer. Programming for 3 years. React, Typescript, styled-components, Git flow. Slowly digging into Vue.Js and Vuex. Really excited about learning new things</h3>
+<h3>A passionate frontend developer. Programming for 3 years. React, Typescript, styled-components, Git flow, Vue.js, Vuex. Slowly digging into Jest and Redux. Really excited about learning new things</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
